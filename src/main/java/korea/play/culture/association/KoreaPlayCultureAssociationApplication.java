@@ -10,5 +10,6 @@ public class KoreaPlayCultureAssociationApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(KoreaPlayCultureAssociationApplication.class, args);
+		System.out.println("Hi git compaer");
 	}
 }
